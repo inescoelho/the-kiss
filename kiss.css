@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f4fc;
+}
+
+.mainCont {
+  background-color: #bcadce;
+}
+
+@media screen and (min-width: 768px) {
+  .img-thumbnail img{
+    width: 500px;
+  }
+}
+
+.space {
+  margin: 20px 0 20px 0;
+}
+
+.smallSpace {
+  margin: 0 0 10px 0;
+}
+
+footer {
+  margin: 20px 0 0 0;
+}
